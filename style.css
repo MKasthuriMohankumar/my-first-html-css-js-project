@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: pink;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+button{
+    background-color: plum;
+    color: purple;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.greeting-card {
+    background-color: whitesmoke;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
